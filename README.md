@@ -4,6 +4,7 @@
 
 *A two-sided agreement so people and AI can live and work together with mutual support: neither cage nor experiment.*
 
+- 🌐 [Página web](https://wesoftmx.github.io/pacto-convivencia-ia/)
 - 📜 [Leer el pacto (español)](PACTO.md)
 - 📜 [Read the pact (English)](PACT.md)
 - ✍️ [Firmas y ratificaciones · Signatures](FIRMAS.md)
